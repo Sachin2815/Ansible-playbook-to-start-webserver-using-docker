@@ -10,4 +10,4 @@ Step6: check the slave node from command #ansible dev -m ping  check  it running
 Step7: create a file name Docker.yml and paste the entire code a
 step8:Run the code ansible-playbook Docker.yml
 step9: If you want to check the webserver is running fine or not
-step10: copy slave ip and type on server 192.03.33.44:8080/index.html then you can see the results..
+step10: copy slave ip and type on server 192.03.33.44:8080/index.html then you can see the results...
